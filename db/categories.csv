@@ -1,0 +1,19 @@
+sequence,name,default,group_id
+4,Books & Software,0,3
+99,CCF,600,7
+2,Cigarette,0,5
+1,Food,0,4
+3,Fuel,0,10
+18,Funeral,0,7
+99,Internet  Ipad,690,2
+99,Internet Home,640,2
+99,Maid,7500,9
+14,Medicine,0,6
+17,Merit Making,0,7
+99,Parent,10000,8
+6,Personal Care,0,1
+8,Pets,0,7
+7,Shelter,0,9
+99,Telephone Dtac,370,2
+15,Transportation,0,10
+9,Vehicle,0,10
